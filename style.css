@@ -1,0 +1,13 @@
+.container-lg{
+    border: solid 1px;
+    height: 500px;
+    background-color: blue;
+}
+body{
+    background-image: url(https://images.pexels.com/photos/414634/pexels-photo-414634.jpeg?auto=compress&cs=tinysrgb&w=1600);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* form{
+    background-color: rgba(15, 41, 187, 0.418);
+} */
